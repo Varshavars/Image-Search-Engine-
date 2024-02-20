@@ -1,7 +1,3 @@
-//to restore api key
-const accessKey="kQObELhdmpud0d9YDwLP0BwfRzRj8nMfNZFGtG7vW3Y";
-
-//to restore form,i/p.....
 const formel=document.querySelector("form");
 const inputel=document.getElementById("search");
 const searchresults =document.querySelector(".imagess");

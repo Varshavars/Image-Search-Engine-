@@ -1,3 +1,5 @@
+const accessKey= process.env.ACCESSKEY;
+
 const formel=document.querySelector("form");
 const inputel=document.getElementById("search");
 const searchresults =document.querySelector(".imagess");
